@@ -1,4 +1,4 @@
-local allowExecute = true
+local allowExecute = false
 if allowExecute then 
   getgenv().Runnable = true
 else
